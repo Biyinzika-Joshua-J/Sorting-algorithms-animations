@@ -1,0 +1,11 @@
+.bars{
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.bars div{
+   padding: 0 1px;
+   margin: 0 1px 0 0;
+}
